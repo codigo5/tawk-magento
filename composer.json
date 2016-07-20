@@ -1,0 +1,11 @@
+{
+  "name": "codigo5/tawk-widget",
+  "type": "magento-module",
+  "description": "Tawk.to Widget messages",
+  "require": {
+    "php": ">=5.4"
+  },
+  "config": {
+    "bin-dir": "bin"
+  }
+}
